@@ -64,7 +64,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
 ## Comandos
- -** composer create-project laravel/laravel ale-ventas
- -** composer require laravel/ui
- -** php artisan ui bootstrap
+ -** composer create-project laravel/laravel ale-ventas **
+ -** composer require laravel/ui **
+ -** php artisan ui bootstrap **
  
