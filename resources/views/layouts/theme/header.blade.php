@@ -26,7 +26,7 @@
                             <div class="media mx-auto">
                                 <img src="assets/img/lara_logo.png" class="img-fluid mr-2" alt="avatar">
                                 <div class="media-body">
-                                    <h5>Luis Fax</h5>
+                                    <h5>Ale</h5>
                                     <p>Developer</p>
                                 </div>
                             </div>
